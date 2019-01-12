@@ -8,7 +8,6 @@ By Authman Apatira
 
 ## Current Offering
 
-If you haven't already, [join the course](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-4)!
 
 <center><img src='Images/py36.png' /></center>
 
