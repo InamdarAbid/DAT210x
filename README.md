@@ -1,11 +1,13 @@
 # DAT210x
+
+[![HitCount](http://hits.dwyl.io/{InamdarAbid}/{DAT210x}.svg)](http://hits.dwyl.io/{InamdarAbid}/{DAT210x})
+
 Programming with Python for Data Science Microsoft
 
 By Authman Apatira
 
 ## Current Offering
 
-If you haven't already, [join the course](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-4)!
 
 <center><img src='Images/py36.png' /></center>
 
