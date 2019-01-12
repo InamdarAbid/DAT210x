@@ -1,4 +1,7 @@
 # DAT210x
+
+[![HitCount](http://hits.dwyl.io/{InamdarAbid}/{DAT210x}.svg)](http://hits.dwyl.io/{InamdarAbid}/{DAT210x})
+
 Programming with Python for Data Science Microsoft
 
 By Authman Apatira
